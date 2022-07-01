@@ -1,7 +1,8 @@
 # CoverLetterAutomater
 
 Lets face it, applying to jobs is a full time job, especially if you are pumping out applications in volume. 
-  Why not automate the hard stuff and streamline the process? 
+ 
+Why not automate the hard stuff and streamline the process? 
 
 I have made a python script that creates a cover letter for me after some user input.
 This script is tailored for me, but I am sure with some tinkering it could fit your needs too.
