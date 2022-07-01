@@ -10,4 +10,4 @@ This script is tailored for me, but I am sure with some tinkering it could fit y
 
 If you do want to use it, you are going to need enscript to turn txt files into ps files and ps2pdf to turn ps files into pdfs. 
 
-If any recruiters stumble upon this, I would hope that this is seen as a demonstration of my ingenuity and technical aptitude.  
+If any recruiters stumble upon this, I would hope that this is seen as a demonstration of my ingenuity and technical aptitude, as lazy programmers make the best programmers. 
